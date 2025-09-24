@@ -26,6 +26,9 @@ Government Dashboard Integration: When the health worker submits a record, it is
 
 Predictive Analytics: Enables the government to identify districts with high cases of disease and take appropriate action.
 
+
+
+
 Benefits -
 
 Efficient management of health records for migrant workers.
@@ -36,6 +39,9 @@ Data-driven decision-making for government authorities.
 
 Improved public health interventions and response time.
 
+
+
+
 Technology Stack -
 
 Frontend: React.js, Tailwind CSS
@@ -45,6 +51,9 @@ Backend: Node.js, Express.js
 Database: MongoDB / MySQL (specify whichever you used)
 
 Authentication: JWT / Custom Authentication for health workers
+
+
+
 
 How It Works-
 
